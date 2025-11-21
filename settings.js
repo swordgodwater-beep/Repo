@@ -45,18 +45,18 @@ global.replyviex = 'https://files.catbox.moe/9lkwtv.jpg'
 
 //////////////////////SETTING TAMPILAN MENU KALIAN//////////////////
 global.ig = '@ariq.ardn19' //NAMA IG LU
-global.yt = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ' //NAMA YT LU, KALO GADA GAUSAH DIISI
+global.yt = 'ʀᴇʏʏᴢ ɪɴғɪɴɪᴛʏ' //NAMA YT LU, KALO GADA GAUSAH DIISI
 global.namaBot = "Furina | MD✨" // Ganti aja
 global.namabot = "Furina | MD✨" // Ganti serah lu
-global.footer = "ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ ✨" //Ganti aja serah
-global.ttowner = 'ariq.ardn' //NAMA TIKTOK LU
-global.namafile = 'Rɪxǫᴢ 🛍' // Ganti aja
-global.ownername = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ' //NAMA LU
-global.owner = ['6285813708397'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6285813708397' // NOMOR LU YANG MAU JDI OWNER
+global.footer = "ʀᴇʏʏᴢ ɪɴғɪɴɪᴛʏ ✨" //Ganti aja serah
+global.ttowner = 'ʀᴇʏʏɢᴏᴅ' //NAMA TIKTOK LU
+global.namafile = 'ʀᴇʏᴢ ɪs ғᴜʟᴇ🛍' // Ganti aja
+global.ownername = 'ʀᴇʏʏᴢ ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ' //NAMA LU
+global.owner = ['6287760563021'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '087760563021' // NOMOR LU YANG MAU JDI OWNER
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
-global.nameCreator = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ'
+global.nameCreator = 'ʀᴇʏʏᴢ ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ'
 /////////////////////////////////////////////////////////////////////////////////
 
 
@@ -98,9 +98,9 @@ global.emoji = [
 ]
 //==================SETTING BOT===========================\\
 global.botname = "Furina | MD ✨" //NAMA BOT LU
-global.ownernumber = '6285813708397' //NOMOR LU
-global.botnumber = '6285813708397' //NOMOR LU
-global.ownername = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ' //NAMA LU
+global.ownernumber = '087760563021' //NOMOR LU
+global.botnumber = '6285786423802' //NOMOR LU
+global.ownername = 'ʀᴇʏʏᴢ ɪɴғɪɴɪᴛʏʏ| ᴅᴇᴠ' //NAMA LU
 global.idSaluran = "120363186130999681@newsletter"//ID SALURAN LU
 global.idch = "120363186130999681@newsletter"//ID SALURAN LU
 global.chat = '120363186130999681@newsletter' // Ganti idch buat command .chat
@@ -113,7 +113,7 @@ global.wagc = "https://chat.whatsapp.com/KBeOpfm2Wyw62ImBHypEUx"
 global.wach = 'https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D'
 global.saluran = "https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D"
 global.themeemoji = '🪀'
-global.wm = "Furina X ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ"
+global.wm = "Furina X ʀᴇʏʏᴢ ɪɴғɪɴɪᴛʏ"
 global.botscript = 'MAAS MAF INI BELI YAA :D'
 global.version = "3.1.0"
 global.packname = "🛒 ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ"
