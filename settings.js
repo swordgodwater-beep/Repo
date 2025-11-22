@@ -44,7 +44,7 @@ global.replyviex = 'https://files.catbox.moe/9lkwtv.jpg'
 
 
 //////////////////////SETTING TAMPILAN MENU KALIAN//////////////////
-global.ig = '@ariq.ardn19' //NAMA IG LU
+global.ig = 'sᴡᴏʀᴅ ɢᴏᴅ ᴄᴏғғᴇ' //NAMA IG LU
 global.yt = 'ʀᴇʏʏᴢ ɪɴғɪɴɪᴛʏ' //NAMA YT LU, KALO GADA GAUSAH DIISI
 global.namaBot = "Furina | MD✨" // Ganti aja
 global.namabot = "Furina | MD✨" // Ganti serah lu
