@@ -13,8 +13,8 @@ global.kirsan = false
 //BATAS//
 //=========GLOBAL MY=========//
 global.my = {
-	yt: "https://youtube.com/@RixqzOffc", //ubah saja terserah 
-    ch: "https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D", //ubah saja sama link channel lu
+	yt: "https://youtube.com/@Sword2God", //ubah saja terserah 
+    ch: "https://whatsapp.com/channel/0029VbBCACX4NVilOI7RmZ2J", //ubah saja sama link channel lu
     idch: "120363186130999681@newsletter" //ubah idch lu
 }
 ////////////////////////////////////////////////////////////////////////////////
